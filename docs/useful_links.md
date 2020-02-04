@@ -12,7 +12,7 @@ A list of useful links is provided for general information about drug discovery 
  
  * ZINC database: [ZINC15](http://zinc15.docking.org/) 
  
- * [RCSB](https://www.rcsb.org)
+ * [RCSB PDB](https://www.rcsb.org)
  
  * Drug Information: [Drugbank](https://www.drugbank.ca/)
  
