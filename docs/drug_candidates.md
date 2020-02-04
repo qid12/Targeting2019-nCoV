@@ -21,28 +21,30 @@ According to evidence-based drug R&D, we only collected the drug candidate datas
 
 [Download (including SMILES structures)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicalncov.xlsx)
 
+
+
 ## Clinical Trials list
 
-| Registration number | Intervention                                                 | Type                      | Registration date |
-| ------------------- | ------------------------------------------------------------ | ------------------------- | ----------------- |
-| ChiCTR2000029308    | Lopinavir/ritonavir; interferon α 2b                         | Antiviral                 | 2020/1/23         |
-| ChiCTR2000029387    | Lopinavir/ritonavir; ribavirin; interferon α-1b              | Antiviral                 | 2020/1/28         |
-| ChiCTR2000029468    | Lopinavir/ritonavir; emtricitabine/tenofovir alafenamide fumarate | Antiviral                 | 2020/2/2          |
-| ChiCTR2000029496    | Lopinavir/ritonavir; Novaferon                               | Antiviral                 | 2020/2/3          |
-| ChiCTR2000029539    | Lopinavir/ritonavir                                          | Antiviral                 | 2020/2/3          |
-| ChiCTR2000029541    | Darunavir/cobicistat; Lopinavir/ritonavir; thymosin          | Antiviral                 | 2020/2/3          |
-| NCT04246242         | Arbidol umifenovir                                           | Antiviral                 | 2020/1/29         |
-| ChiCTR2000029386    | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
-| NCT04244591         | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
+A list of clinical trials related to 2019-nCoV is collected in the table below:
+
+| Registration number                                          | Intervention                                                 | Type                      | Registration date |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
+| [ChiCTR2000029308](http://www.chictr.org.cn/showprojen.aspx?proj=48684) | Lopinavir/ritonavir; interferon α 2b                         | Antiviral                 | 2020/1/23         |
+| [ChiCTR2000029387](http://www.chictr.org.cn/showprojen.aspx?proj=48782) | Lopinavir/ritonavir; ribavirin; interferon α-1b              | Antiviral                 | 2020/1/28         |
+| [ChiCTR2000029468](http://www.chictr.org.cn/showprojen.aspx?proj=48919) | Lopinavir/ritonavir; emtricitabine/tenofovir alafenamide fumarate | Antiviral                 | 2020/2/2          |
+| [ChiCTR2000029496](http://www.chictr.org.cn/showprojen.aspx?proj=48809) | Lopinavir/ritonavir; Novaferon                               | Antiviral                 | 2020/2/3          |
+| [ChiCTR2000029539](http://www.chictr.org.cn/showprojen.aspx?proj=48991) | Lopinavir/ritonavir                                          | Antiviral                 | 2020/2/3          |
+| [ChiCTR2000029541](http://www.chictr.org.cn/showprojen.aspx?proj=48992) | Darunavir/cobicistat; Lopinavir/ritonavir; thymosin          | Antiviral                 | 2020/2/3          |
+| [NCT04246242](https://clinicaltrials.gov/ct2/show/NCT04246242) | Arbidol umifenovir                                           | Antiviral                 | 2020/1/29         |
+| [ChiCTR2000029386](http://www.chictr.org.cn/showprojen.aspx?proj=http://www.chictr.org.cn/showprojen.aspx?proj=48777) | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
+| [NCT04244591](https://clinicaltrials.gov/ct2/show/NCT04244591) | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
+
 
 
 ## Potential drug candidates by drug repuposing
 
 High-quality drug datasets were collected and curated using anti-coronavirus indications in drug development. 
+
  * Datasets: [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug.xlsx)
  * Dataset: [FDA approved set from Drugbank (Updated on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
-    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
-
-
-
-
+   * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
