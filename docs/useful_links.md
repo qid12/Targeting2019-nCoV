@@ -4,8 +4,6 @@ A list of useful links is provided for general information about drug discovery 
 
  * [Updates from WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
  
- * [中国疾病预防控制中心](http://www.chinacdc.cn/)
- 
  * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  
  * [NCBI](https://ncbi.nlm.nih.gov/)
@@ -27,6 +25,8 @@ A list of useful links is provided for general information about drug discovery 
  * [BindingDB](https://www.bindingdb.org/bind/index.jsp)
  
  * [Epidemic updates (DXY.cn)](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579579384&enterid=1579579384&from=timeline&isappinstalled=0)
+  
+ * [中国疾病预防控制中心](http://www.chinacdc.cn/)
  
  * [新冠状病毒国家科技资源服务系统(国家微生物科学数据中心和国家病原微生物资源库)](http://nmdc.cn/#/nCoV)
  
