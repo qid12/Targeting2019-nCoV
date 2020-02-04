@@ -20,7 +20,7 @@ According to evidence-based drug R&D, we only collected the drug candidate datas
 
 High-quality drug datasets were collected and curated using anti-coronavirus indications in drug development. 
  * Datasets: [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug.xlsx)
- * Dataset: [FDA approved set From Drugbank (Updated on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
+ * Dataset: [FDA approved set from Drugbank (Updated on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
     * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
 
 
