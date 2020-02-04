@@ -2,7 +2,7 @@
 
 A list of useful links is provided for general information about drug discovery and coronavirus
 
- * [Updates from WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+ * Updates from WHO regarding novel coronavirus: [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
  
  * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  
