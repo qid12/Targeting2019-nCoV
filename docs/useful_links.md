@@ -4,6 +4,8 @@ A list of useful links is provided for general information about drug discovery 
 
  * [Updates from WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
  
+ * [中国疾病预防控制中心](http://www.chinacdc.cn/)
+ 
  * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  
  * [NCBI](https://ncbi.nlm.nih.gov/)
