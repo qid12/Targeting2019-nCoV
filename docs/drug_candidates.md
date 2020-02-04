@@ -10,7 +10,6 @@ According to evidence-based drug R&D, we only collected the drug candidate datas
 | Chloroquine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_chloroquine.png) | Inhibitor                                   | Antimalarial agent               | [DB14761](https://www.drugbank.ca/drugs/DB14761) | Cellular Assay                 | [1](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm) |
 | Umifenovir         | ![img5](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_arbidol.png) | Viral Entry Inhibitors                      | Influenza approved, nCoV Phase 4 | [DB13609](https://www.drugbank.ca/drugs/DB13609) | Clinical trial                 | [1](https://clinicaltrials.gov/ct2/show/NCT04246242)         |
 | Favipiravir        | ![img6](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_favipiravir.png) | RNA polymerase inhibitor                    | Influenza                        | [DB12466](https://www.drugbank.ca/drugs/DB12466) | Clinical trial                 | [1](http://www.xinhuanet.com/english/2020-02/01/c_138747115.htm) |
-| Nelfinavir         | ![img7](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_nelfinavir.png) | Protease inhibitor                          | Anti-HIV approved                | [DB00220](https://www.drugbank.ca/drugs/DB00220) | Clinical trial                 |                                                              |
 | IFN alpha-1b       |                                                              | Interferon                                  |                                  |                                                  | Clinical trial                 | [1](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml); [2](http://www.chictr.org.cn/showproj.aspx?proj=48782) |
 | Methylprednisolone | ![img9](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_) | Corticosteroid                              | nCoV Phase 2                     | [DB00959](https://www.drugbank.ca/drugs/DB00959) | Clinical trial                 | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48777); [2](https://clinicaltrials.gov/ct2/show/NCT04244591) |
 | Darunavir          | ![img10](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_) | Protease inhibitor                          | Anti-HIV approved                | [DB01264](https://www.drugbank.ca/drugs/DB01264) | Clinical trial                 | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48992)     |
@@ -20,7 +19,6 @@ According to evidence-based drug R&D, we only collected the drug candidate datas
 | Tenofovir          | ![img14](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_) | nucleoside reverse  transcriptase inhibitor | Anti-HIV                         | [DB14126](https://www.drugbank.ca/drugs/DB14126) | Clinical trial                 | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48919)     |
 
 [Download (including SMILES structures)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicalncov.xlsx)
-
 
 
 ## Clinical Trials list
