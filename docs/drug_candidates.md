@@ -18,31 +18,10 @@ According to evidence-based drug R&D, we only collected the drug candidate datas
 
 # Potential drug candidates by drug repuposing
 
-High-quality drug lists were collected and curated using anti-coronavirus indications in drug development. 
-
- * Dataset: [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_)
- * Datasets: [Drugs in pipeline for MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_)
- * Datasets: [Drugs in pipeline for Coronavirus, excluded SARS/MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_)
- * Dataset: [FDA approved set (From Drugbank)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_)
-
-
-
-Quick Links:
-
- * Drug Information: [Drugbank](https://www.drugbank.ca/)
- * Pharmacology data: [ChEMBL](https://www.ebi.ac.uk/chembl/)
- * [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
- * [BindingDB](https://www.bindingdb.org/bind/index.jsp)
-
- * [Epidemic updates (DXY.cn)](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579579384&enterid=1579579384&from=timeline&isappinstalled=0)
- * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
-
- * [Clinical Data for Coronavirus](https://clinicaltrials.gov/)
- * [新冠状病毒国家科技资源服务系统(国家微生物科学数据中心和国家病原微生物资源库)](http://nmdc.cn/#/nCoV)
- * [2019新型冠状病毒信息库(国家生物信息中心和国家基因组科学数据中心)](https://bigd.big.ac.cn/ncov)
-
-
-
+High-quality drug datasets were collected and curated using anti-coronavirus indications in drug development. 
+ * Datasets: [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug.xlsx)
+ * Dataset: [FDA approved set From Drugbank (Updated on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
+    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
 
 
 
