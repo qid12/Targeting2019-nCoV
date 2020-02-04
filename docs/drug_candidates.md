@@ -1,6 +1,6 @@
 ## Drugs and candidates for 2019-nCoV
 
-According to evidence-based drug R&D, we only collected the drug candidate datasets with precinical and clinical evidence. Those suggested by expert systems or predictive models were not included.
+The table below shows the identified drug candidates in no particular order. According to evidence-based drug R&D, we only collected the drug candidates with preclinical and clinical evidence. Those suggested by expert systems or predictive models were not included. 
 
 | Drug Name          | Structure                                                    | MoA                                         | Indication                       | DrugBank URL                                     | Anti-2019nCoV Evidence         | Reference                                                    |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------- | -------------------------------- | ------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
@@ -23,26 +23,24 @@ According to evidence-based drug R&D, we only collected the drug candidate datas
 
 ## Clinical Trials list
 
-A list of clinical trials related to 2019-nCoV is collected in the table below:
+A list of clinical trials related to 2019-nCoV is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date.
 
 | Registration number                                          | Intervention                                                 | Type                      | Registration date |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
 | [ChiCTR2000029308](http://www.chictr.org.cn/showprojen.aspx?proj=48684) | Lopinavir/ritonavir; interferon α 2b                         | Antiviral                 | 2020/1/23         |
+| [ChiCTR2000029386](http://www.chictr.org.cn/showprojen.aspx?proj=http://www.chictr.org.cn/showprojen.aspx?proj=48777) | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
 | [ChiCTR2000029387](http://www.chictr.org.cn/showprojen.aspx?proj=48782) | Lopinavir/ritonavir; ribavirin; interferon α-1b              | Antiviral                 | 2020/1/28         |
+| [NCT04244591](https://clinicaltrials.gov/ct2/show/NCT04244591) | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
+| [NCT04246242](https://clinicaltrials.gov/ct2/show/NCT04246242) | Arbidol umifenovir                                           | Antiviral                 | 2020/1/29         |
 | [ChiCTR2000029468](http://www.chictr.org.cn/showprojen.aspx?proj=48919) | Lopinavir/ritonavir; emtricitabine/tenofovir alafenamide fumarate | Antiviral                 | 2020/2/2          |
 | [ChiCTR2000029496](http://www.chictr.org.cn/showprojen.aspx?proj=48809) | Lopinavir/ritonavir; Novaferon                               | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029539](http://www.chictr.org.cn/showprojen.aspx?proj=48991) | Lopinavir/ritonavir                                          | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029541](http://www.chictr.org.cn/showprojen.aspx?proj=48992) | Darunavir/cobicistat; Lopinavir/ritonavir; thymosin          | Antiviral                 | 2020/2/3          |
-| [NCT04246242](https://clinicaltrials.gov/ct2/show/NCT04246242) | Arbidol umifenovir                                           | Antiviral                 | 2020/1/29         |
-| [ChiCTR2000029386](http://www.chictr.org.cn/showprojen.aspx?proj=http://www.chictr.org.cn/showprojen.aspx?proj=48777) | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
-| [NCT04244591](https://clinicaltrials.gov/ct2/show/NCT04244591) | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
-
 
 
 ## Potential drug candidates by drug repuposing
-
-High-quality drug datasets were collected and curated using anti-coronavirus indications in drug development. 
+High-quality drug datasets were collected then curated based on anti-coronavirus indicators. These drugs could be used for drug repuposing.
 
  * Datasets: [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug.xlsx)
- * Dataset: [FDA approved set from Drugbank (Updated on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
+ * Dataset: [FDA approved set from Drugbank (Downloaded on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
