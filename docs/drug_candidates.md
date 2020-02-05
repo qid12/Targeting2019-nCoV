@@ -1,4 +1,4 @@
-## Drugs and candidates tested for 2019-nCoV
+## Drugs candidates tested for 2019-nCoV
 
 The table below lists the identified drug candidates in no particular order. Drug candidates with preclinical and clinical studies done for 2019-nCoV were collected from different sources. Those suggested by expert systems or predictive models and traditional Chinese herbs were excluded. 
 
