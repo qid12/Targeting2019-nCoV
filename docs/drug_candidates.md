@@ -52,7 +52,7 @@ High-quality drug datasets were collected then curated based on anti-coronavirus
 
 ## References
  1. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48684)
- 2.[ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48919) 
+ 2. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48919) 
  3. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48809) 
  4. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48991) 
  5. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48782)
