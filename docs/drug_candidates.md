@@ -1,6 +1,6 @@
-## Drugs and candidates for 2019-nCoV
+## Drugs and candidates tested for 2019-nCoV
 
-The table below shows the identified drug candidates in no particular order. According to evidence-based drug R&D, we only collected the drug candidates with preclinical and clinical evidence. Those suggested by expert systems or predictive models were not included.
+Drug candidates with preclinical and clinical studies done for 2019-nCoV were collected from different sources. Those suggested by expert systems or predictive models and traditional Chinese herbs were excluded. The table below lists the results in no particular order.
 
 | Drug Name          | Structure                                                    | MoA                                         | Indication                                                   | DrugBank URL                                     | Anti-2019nCoV Evidence         | Reference                                                    |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
@@ -50,3 +50,18 @@ High-quality drug datasets were collected then curated based on anti-coronavirus
     
  * Dataset: [FDA approved set from Drugbank (Downloaded on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
     * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
+
+## References
+[1] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48684); 
+[2] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48919); 
+[3] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48809); 
+[4] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48991); 
+[5] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48782)
+[6] [National Health Commission of the PRC](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml)
+[7] [Xinhua News](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm)
+[8] [New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMoa2001191)
+[9] [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04246242)
+[10] [Xinhua News](http://www.xinhuanet.com/english/2020-02/01/c_138747115.htm)
+[11] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48992)
+[12] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48777) 
+[13] [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04244591)
