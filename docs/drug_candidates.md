@@ -18,12 +18,12 @@ The table below shows the identified drug candidates in no particular order. Acc
 | Methylprednisolone | ![img9](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_) | Corticosteroid                              | nCoV Phase II, allergic asthma and rheumatic disorders approved | [DB00959](https://www.drugbank.ca/drugs/DB00959) | Clinical trial                 | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48777); [2](https://clinicaltrials.gov/ct2/show/NCT04244591) |
 | IFN alpha-1b       |                                                              | Immunomodulation                            | Interferon                                                   |                                                  | Clinical trial                 | [1](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml); [2](http://www.chictr.org.cn/showproj.aspx?proj=48782) |
 
-[Download (including SMILES structures)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicalncov.xlsx)
+[Download (including SMILES structures)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicalncov.csv)
 
 
 ## Clinical Trials list
 
-A list of clinical trials related to 2019-nCoV is collected in the table below based on the registration date:
+A list of clinical trials related to 2019-nCoV is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date.
 
 | Registration number                                          | Intervention                                                 | Type                      | Registration date |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
@@ -44,9 +44,9 @@ A list of clinical trials related to 2019-nCoV is collected in the table below b
 High-quality drug datasets were collected then curated based on anti-coronavirus indicators. These drugs could be used for drug repuposing.
 
  * Datasets: 
-    * [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.xlsx)
-    * [Drugs in pipeline for MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_mers.xlsx)
-    * [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_cov.xlsx)
+    * [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.csv)
+    * [Drugs in pipeline for MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_mers.csv)
+    * [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_cov.csv)
     
  * Dataset: [FDA approved set from Drugbank (Downloaded on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
     * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
