@@ -23,19 +23,20 @@ The table below shows the identified drug candidates in no particular order. Acc
 
 ## Clinical Trials list
 
-A list of clinical trials related to 2019-nCoV is collected in the table below:
+A list of clinical trials related to 2019-nCoV is collected in the table below based on the registration date:
 
 | Registration number                                          | Intervention                                                 | Type                      | Registration date |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
 | [ChiCTR2000029308](http://www.chictr.org.cn/showprojen.aspx?proj=48684) | Lopinavir/ritonavir; interferon α 2b                         | Antiviral                 | 2020/1/23         |
+| [ChiCTR2000029386](http://www.chictr.org.cn/showprojen.aspx?proj=http://www.chictr.org.cn/showprojen.aspx?proj=48777) | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
 | [ChiCTR2000029387](http://www.chictr.org.cn/showprojen.aspx?proj=48782) | Lopinavir/ritonavir; ribavirin; interferon α-1b              | Antiviral                 | 2020/1/28         |
+| [NCT04244591](https://clinicaltrials.gov/ct2/show/NCT04244591) | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
+| [NCT04246242](https://clinicaltrials.gov/ct2/show/NCT04246242) | Arbidol umifenovir                                           | Antiviral                 | 2020/1/29         |
 | [ChiCTR2000029468](http://www.chictr.org.cn/showprojen.aspx?proj=48919) | Lopinavir/ritonavir; emtricitabine/tenofovir alafenamide fumarate | Antiviral                 | 2020/2/2          |
 | [ChiCTR2000029496](http://www.chictr.org.cn/showprojen.aspx?proj=48809) | Lopinavir/ritonavir; Novaferon                               | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029539](http://www.chictr.org.cn/showprojen.aspx?proj=48991) | Lopinavir/ritonavir                                          | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029541](http://www.chictr.org.cn/showprojen.aspx?proj=48992) | Darunavir/cobicistat; Lopinavir/ritonavir; thymosin          | Antiviral                 | 2020/2/3          |
-| [NCT04246242](https://clinicaltrials.gov/ct2/show/NCT04246242) | Arbidol umifenovir                                           | Antiviral                 | 2020/1/29         |
-| [ChiCTR2000029386](http://www.chictr.org.cn/showprojen.aspx?proj=http://www.chictr.org.cn/showprojen.aspx?proj=48777) | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
-| [NCT04244591](https://clinicaltrials.gov/ct2/show/NCT04244591) | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
+
 
 
 
