@@ -1,15 +1,129 @@
+## Top Review Articles
+
+2020, Feb 14
+
+ * ["A systems approach to infectious disease"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ASystemsApproachToInfectiousDisease.pdf)
+    * A framework for a systems biology approach to infectious disease in three parts: discovery — the design, collection and analysis of omics data; representation — the iterative modelling, integration and visualization of complex data sets; and application — the interpretation and hypothesis-based inquiry towards translational outcomes.
+
+---
+
+2020, Feb 10
+
+ * ["Therapeutic options for the 2019 novel coronavirus (2019-nCoV)"](https://www.nature.com/articles/d41573-020-00016-0)
+    * Therapeutic options in response to the 2019-nCoV outbreak are urgently needed. Here, we discuss the potential for repurposing existing antiviral agents to treat 2019-nCoV, some of which are already moving into clinical trials.
+
+---
+    
+2016 
+
+ * ["Coronaviruses — drug discovery and therapeutic options"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cddato.pdf)
+    * Review of epidemiology, virology, clinical features, and current treatment strategies of SARS and MERS in 2016. This review article also includes a discussion of the drug discovery and development of new therapeutic options for CoV infections.
+
+---
+
+2008
+
+ * ["SARS coronavirus Accessory Proteins"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarscap.pdf)
+    * Evidence points to the fact that accessory proteins may play an important role in modulating the host response to virus infection and contribute to pathogenesis. This review compiled the existing knowledge SARS-CoV accessory proteins and attempts to explain the possible roles of these proteins in the propagation and virulence of SARS-CoV in its host. 
+
+---
+
 ## 2020
 
-### 2020, Feb 6
+2020, Feb 29
+ * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
+    * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
+
+---
+
+2020, Feb 28
+
+ * [Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa145/5766118)
+    * Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format.
+    * Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.
+    * Preprint released on February 2, 2020. Published on February 28, 2020 
+
+---
+
+2020, Feb 27
+ * ["Coronavirus puts drug repurposing on the fast track"](https://www.nature.com/articles/d41587-020-00003-1)
+    * Existing antivirals and knowledge gained from the SARS and MERS outbreaks gain traction as the fastest route to fight the current coronavirus epidemic. This news briefly reviewed the repurposed agents targeting SARS-CoV2, and pointed out that although virtual screens can potentially accelerate drug discovery, the predicted compounds still need to be tested carefully with experiments.
+
+--- 
+
+
+2020, Feb 25
+ * ["Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_faceruscolb.pdf)
+    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
+    * Preprint released on January 22, 2020. Published on February 25, 2020 
+
+---
+
+2020, Feb 21
+ * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_mcmrb2nvilchc.pdf)
+    * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
+
+---
+
+2020， Feb 20
+ * ["In silico screening of Chinese herbal medicines with the potential to directly inhibit 2019 novel coronavirus"](https://www.sciencedirect.com/science/article/pii/S2095496420300157)
+    * A rational screen was conducted to identify Chinese medical herbs that are commonly used in treating viral respiratory infections and also contain compounds that might directly inhibit 2019 novel coronavirus (2019-nCoV).
+    * The researchers firstly did a literature search for natural compounds that had been biologically confirmed as against SARS or MERS. Then a docking analysis was used to test whether the compound had the potential for direct 2019-nCoV protein interaction. Finally, network pharmacology analysis was used to predict the general in vivo effects of each selected herb.
+    * 125 Chinese herbs were found to contain 2 or more of these 13 compounds, related to regulating viral infection, immune/inflammation reactions and hypoxia response.
+
+---
+
+2020, Feb 18
+
+ * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sodflhace2.pdf)
+    * 2.9 Å  resolution  cryo-EM  structure  of  full-length  human  ACE2  in  complex  with B0AT1 is presented in this study. The complex exhibits open and closed conformations due to the shifts of the peptidase domains of ACE2. Structural modelling suggests that this complex can bind two S proteins simultaneously. 
+    
+---
+
+2020, Feb 16
+
+ * ["Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cems2nspc.pdf)
+    * This study produced 3.5 A-resolution structures of the 2019-nCoV S trimer in the prefusion conformation. Additionally, results from this study indicate that this S protein binds ACE2 with higher affinity than the previous SARS-CoV S protein through biophysical and structural evidence. 
+
+---
+
+2020, Feb 13
+
+ * ["Potentially highly potent drugs for 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
+    * Drug repurposing was used in this study to identify many FDA approved drugs are potentially active against 2019-nCoV. This was done using a SARS 3CL protease X-ray crystal structure to create a 3D homology structure. Additionally, protein-ligand complexes were used as training data for a deep learning model to predict binding affinities; 1465 FDA-approved drugs were tested and the predicted binding affinities were reported in this study's results section.
+
+---
+
+2020, Feb 11
+
+ * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_efwncocebvd.pdf)
+    * This article describes a study to design possible epitope-based subunit vaccines against the 2019-nCoV using a variety of strategies. Many amino acid sequences were published in this study, including three vaccine construct sequences. 
+
+---
+
+ * [α-Ketoamides as Broad-Spectrum Inhibitors of Coronavirus and Enterovirus Replication: Structure-Based Design, Synthesis, and Activity Assessment](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b01828?from=timeline&isappinstalled=0)
+    * The main protease of coronaviruses and the 3C protease of enteroviruses share a similar active-site architecture and a unique requirement for glutamine in the P1 position of the substrate. Six crystal structures of protease–inhibitor complexes were determined as part of this study. Compounds synthesized were tested against the recombinant proteases as well as in viral replicons and virus-infected cell cultures; most of them were not cell-toxic. 
+
+---
+
+2020, Feb 7
+
+ * ["Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_p23clpidgdl.pdf)
+    * This article from Insilico Medicine utilizes its generative chemistry pipeline to design novel molecules for 2019-nCoV through several generative chemistry approaches. Inputs for this model include 2019-nCoV 3C-like protease crystal structure, homology model, co-crystalized fragment, and a protease datasets. Several structures were generated and shown in the paper's results section. The most recent data results are on their official website: insilico.com/ncov-sprint.
+
+---
+
+2020, Feb 6
+
 * ["2019-nCoV: new challenges from coronavirus"](http://rs.yiigle.com/yufabiao/1179575.htm)
     * According to current observations, 2019-nCoV is weaker than SARS in pathogenesis, but has stronger transmission competence; it's mechanism of cross-species spread might be related with angiotensin-converting enzyme Ⅱ (ACE2), which is consistent with the receptor SARS-CoV.
     * The emergence of 2019-nCoV reminds us once again of the importance of establishing a systematic coronavirus surveillance network. It also poses new challenges to prevention and control of the emerging epidemic and rapidly responses on scientific research.
 
 ---
 
-### 2020, Feb 5
+2020, Feb 5
 
-* ["Network-based Drug Repurposing for Human Coronavirus"](https://www.medrxiv.org/content/10.1101/2020.02.03.20020263v1)
+* ["Network-based Drug Repurposing for Human Coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nbdrhc.pdf)
     * The researchers present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network.
     * Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, the researchers computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs, and prioritized 16 potential anti-HCoV repurposable drugs (including **melatonin**, **mercaptopurine**, and **sirolimus**) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.
     * Three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern.
@@ -28,9 +142,9 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ---
 
-### 2020, Feb 4
+2020, Feb 4
 
- * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
+ * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
 
 ---
@@ -55,19 +169,11 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ---
 
-### 2020, Feb 3
+2020, Feb 3
 
  * Gilead Sciences and 2019 Novel Coronavirus (2019-nCoV)
     * Remdesivir from Gilead Sciences [enters Phase III](https://www.bioworld.com/articles/432804-gileads-remdesivir-enters-china-phase-iii-trial-to-fight-coronavirus) clinical trials in China on February 3, 2020.  
     * An official [news release](https://www.gilead.com/news-and-press/company-statements/gilead-sciences-statement-on-the-company-ongoing-response-to-the-2019-new-coronavirus) from Gilead expressing their committment to respond to this outbreak by testing their novel investigational compound remdesivir in a controlled clinical trial as a treatment for 2019-nCoV.
-
----
-
-### 2020, Feb 2
-
- * [Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes](https://www.biorxiv.org/content/10.1101/2020.01.31.928796v1)
-    * Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format.
-    * Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.
 
 ---
 
@@ -84,7 +190,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ---
 
-### 2020, Jan 31
+2020, Jan 31
 
  * [Drug treatment options for the 2019-new coronavirus (2019-nCoV)](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2020.01020/_article)
     * Lopinavir /Ritonavir, Nucleoside analogues, Neuraminidase inhibitors, Remdesivir, peptide (EK1), abidol, RNA synthesis inhibitors (such as TDF, 3TC), anti-inflammatory drugs (such as hormones and other molecules), Chinese traditional medicine, such ShuFengJieDu Capsules and Lianhuaqingwen Capsule, could be the drug treatment options for 2019-nCoV. However, the efficacy and safety of these drugs for 2019- nCoV still need to be further confirmed by clinical experiments
@@ -101,7 +207,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ---
 
-### 2020, Jan 29
+2020, Jan 29
 
  * [Therapeutic Drugs Targeting 2019-nCoV Main Protease by High-Throughput Screening](https://www.biorxiv.org/content/10.1101/2020.01.28.922922v2)
     * The main protease of SARS-CoV is essential for the life cycle of the virus, which showed 96.1% of similarity with the main proteaseof 2019-nCoV, is considered to be an attractive target for drug development.
@@ -119,7 +225,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ---  
 
-### 2020, Jan 28
+2020, Jan 28
 
  * [Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody](https://www.biorxiv.org/content/10.1101/2020.01.28.923011v1)
     * We report for the first time that a SARS-CoV-specific human monoclonal antibody, CR3022, could bind potently with 2019-nCoV RBD (KD of 6.3 nM). The epitope of CR3022 does not overlap with the ACE2 binding site within 2019-nCoV RBD. Therefore, CR3022 has the potential to be developed as candidate therapeutics, alone or in combination with other neutralizing antibodies, for the prevention and treatment of 2019-nCoV infections
@@ -132,7 +238,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ---
 
-### 2020, Jan 27
+2020, Jan 27
 
  * ["From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_fswncoseep.pdf)
     * The ongoing outbreak in China caused by the 2019-nCoV is very similar in many aspects  to SARS in 2003. This article, using epidemiological surveys and analyses from the early stage of the SARS outbreak, assesses and compares characteristics of these two outbreaks. Using the current data, the cumulative counts of 2019-nCoV cases was estimated about 2-3 times the total number of SARS, and the peak incidence is predicted to be in early or middle February. It is suggested that regional migration should be limited or prohibited to prevent the emergence and movement of a super-spreader. 
@@ -144,7 +250,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
     
 ---
 
-### 2020, Jan 24
+2020, Jan 24
 
  * ["A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_afcpancippt.pdf)
     * The results of this study report the findings of 5 patients in a family cluster who were infected with the novel coronavirus. This study includes epidemiological, clinical, laboratory, radiological, and microbiological data regarding the patients. It was found that symptoms presented 3-6 days after exposure. Additionally, it was found through next-generation sequencing that the novel coronavirus is highly related to SARS coronaviruses.
@@ -154,54 +260,15 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
     
 ---
 
-### 2020, Jan 22
-
- * ["Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_facerulbbc.pdf)
-    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
-
----
-
  * ["Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_gpsmadoi.pdf)
     * The 2019-nCoV is revealed to be a new type of bat coronavirus and is genetically distant from the human SARS coronavirus. Its spike protein only binds weakly to the ACE2 receptor on human cells.
 
 ----
 
-### 2020, Jan 21
+2020, Jan 21
 
  * ["Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_encwomsp.pdf)
     * Analysis showed that the Wuhan CoV shared a common ancestor with SARS coronavirus that resembles the bat coronavirus HKU9-1. This work points to the RBD domain of the Wuhan CoV S-protein which supports strong interaction with human ACE2 molecules.
-
----
-
-### 2020 News
-
- * Summary of 2019-nCoV research progress 
-    * This [article](https://mp.weixin.qq.com/s/bYd1y9f_Rif7N9VhmlZTTQ) summarizes the recent advances made (as of January 29, 2020) regarding the 2019-nCoV outbreak. Many recent scientific publications are shared in this article.
-    
----
-
- * Wuhan Institute of Virology, CAS identifies three potential drugs
-    * This [article](https://www.guancha.cn/politics/2020_01_29_533574.shtml) reports that the CAS Wuhan Institute of Virology has recently identified three potential drugs that can be used against 2019-nCoV. The three drugs identified are Remdesivir GS-5734, Chloroquine Sigma-C6628, and Ritonavir. All three identified are old drugs that are currently awaiting approval for this new usage.
-
----
-
- * Chinese Academy of Sciences Shanghai Institute of Materia Medica and ShanghaiTech University release a list of compounds which can have an effect on 2019-nCoV
-    * This official [article](https://mp.weixin.qq.com/s/SyTjhfInWpLGhBpf2cCT8Q) from CAS released a list of pharmaceutical compounds that may have a therapeutic effect on this new virus. This compounds come from old repurposed drugs or Traditional Chinese Medicine.
-
----
-
- * National Microbiology Data Center 2019-nCov Data    
-    * This is a [link](http://nmdc.cn/#/nCoV) to the National Microbiology Data Center official website's information about the 2019-nCov virus. The official English name of this virus is C-Tan-nCov Wuhan strain 01. The link includes relevant information and images.
-
----
-
- * Chinese Academy of Sciences Shanghai Institute of Materia Medica and ShanghaiTech University release the 2019-nCoV 3CL protein crystal structure
-    * This team at CAS Shanghai Institute of Materia Medica and ShanghaiTech University [released](http://wenhui.whb.cn/zhuzhanapp/kjwz/20200126/317749.html?state=123&timestamp=1580193786547) the protein crystal structure for the 2019-nCoV 3CL protein. The Protein Data Bank ID is 6LU7. 
-
----
-
- * "Shenyang Pharmaceutical University, Huazhong University of Science and Technology, and Academy of Military Medical Sciences identified pharmaceuticals that can possibly treat 2019-nCoV"    
-    * This [article](https://mp.weixin.qq.com/s/TlI0d4XsfrrFtYHhWI7h6g) reveals several pharmaceuticals that are candidates to be used to treat the recent 2019-nCoV outbreak. 
 
 ---
 
@@ -210,12 +277,6 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_fsadshku2.pdf)
     * This article provides evidence that a bat coronavirus and swine acute diarrhoea syndrome coronavirus is the aetiological agent that was responsible for a large outbreak resulting in the fatal disease of pigs in China. The SADS and SARS outbreaks had similarities in geographical, temporal, ecological, and aetiological settings.
 
----
-
-## 2016 
-
- * ["Coronaviruses — drug discovery and therapeutic options"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cddato.pdf)
-    * Review of epidemiology, virology, clinical features, and current treatment strategies of SARS and MERS in 2016. This review article also includes a discussion of the drug discovery and development of new therapeutic options for CoV infections.
 
 ----
 
@@ -238,6 +299,13 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ----
 
+## 2008
+
+ * ["SARS coronavirus Accessory Proteins"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarscap.pdf)
+    * Evidence points to the fact that accessory proteins may play an important role in modulating the host response to virus infection and contribute to pathogenesis. This review compiled the existing knowledge SARS-CoV accessory proteins and attempts to explain the possible roles of these proteins in the propagation and virulence of SARS-CoV in its host. 
+    
+---   
+    
 ## 2004
 
  * ["Structure-Based Discovery of a Novel Angiotensin- Converting Enzyme 2 Inhibitor"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)
